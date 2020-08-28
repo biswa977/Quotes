@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "643198222929",
+    "firebase_url": "https://test-c5969.firebaseio.com",
+    "project_id": "test-c5969",
+    "storage_bucket": "test-c5969.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643198222929:android:4b63d580f1a9b6c1006e70",
+        "android_client_info": {
+          "package_name": "com.example.motivation_on_the_go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643198222929-ilkmgk1u852mt0sgdu70di3p55hh3gd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkslusXO0-MHtuDWp5k9x-TgNaExX26r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643198222929-ilkmgk1u852mt0sgdu70di3p55hh3gd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
